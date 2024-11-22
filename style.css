@@ -1,0 +1,37 @@
+nav{
+    display: flex;
+    gap: 20px;
+}
+.color-example{
+    color: black;
+    background-color: rgb(203, 204, 111);
+    border: 5px solid rgb(54, 193, 19);
+}
+.header-example{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+.list-example{
+    list-style-type: disc;
+    color: blue;
+}
+.text-example{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.div-example{
+    background-color: pink;
+    border: 3px solid black;
+}
+h2{
+    border: 5px solid brown;
+    border-radius: 7px;
+}
+#p{
+    background-color: paleturquoise;
+    border-radius: 7px;
+    padding: 5px;
+}
